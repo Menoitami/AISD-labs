@@ -1,4 +1,4 @@
-#include <iostream>  //выполнить 8,9,10
+#include <iostream> 
 #include <iomanip>
 #include <fstream>
 

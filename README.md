@@ -1,25 +1,31 @@
-# Basic Data Structures
+# Data Structures and Algorithms
 
 ## Overview
 
-This project, developed in C++, is a collection of laboratory works focused on implementing fundamental data structures and sorting algorithms.
+This project is developed in C++ and includes several laboratory works and a course project, focusing on fundamental data structures and algorithms.
 
-### Trees
+### Labs
 
-The following types of trees are implemented:
-- Tree
-- Binary Tree
-- Red-Black Tree
+1. **Lab 1: Doubly Linked List**
+   - Implementation of a doubly linked list with basic operations such as insertion, deletion, and traversal.
 
-### Sorts
+2. **Lab 2: Divide and Conquer**
+   - Implementation of divide and conquer algorithms, demonstrating the principle of breaking down a problem into smaller sub-problems.
 
-In the third lab work, a set of sorting algorithms is presented:
-1. **Insertion Sort**
-2. **Selection Sort**
-3. **Bubble Sort**
-4. **Merge Sort**
-5. **Shell Sort**
-6. **Quick Sort**
+3. **Lab 3: Sorting Algorithms**
+   - Implementation of various sorting algorithms:
+     1. **Insertion Sort**
+     2. **Selection Sort**
+     3. **Bubble Sort**
+     4. **Merge Sort**
+     5. **Shell Sort**
+     6. **Quick Sort**
+
+4. **Lab 4: Binary Tree**
+   - Implementation of a binary tree with fundamental operations such as insertion, deletion, and traversal.
+
+5. **Course Project: Huffman Coding Algorithm**
+   - Implementation of the Huffman coding algorithm for data compression.
 
 ## Requirements
 
